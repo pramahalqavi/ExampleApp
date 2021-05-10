@@ -3,4 +3,44 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorTextPrimary">@color/black_60</color>
+    <color name="colorTextSecondary">@color/black_38</color>
+    <color name="colorTextThird">@color/brownish_grey_38</color>
+
+    <color name="red">#e1171d</color>
+    <color name="black">#000000</color>
+    <color name="black_translucent">#51000000</color>
+    <color name="red_dark">#ca151a</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="peachy_pink">#ff997a</color>
+    <color name="peachy_pink_2">#ff9e80</color>
+    <color name="lipstick">#e1171d</color>
+    <color name="brownish_grey_38">#61666666</color>
+    <color name="black_38">#61000000</color>
+    <color name="black_60">#99000000</color>
+    <color name="black_87">#DE000000</color>
+    <color name="silver_60">#99c5c6c5</color>
+    <color name="reddish_pink">#ff2e60</color>
+    <color name="strong_pink">#ff2e60</color>
+    <color name="greyish_brown">#4a4a4a</color>
+    <color name="color_d6d6d6">#d6d6d6</color>
+    <color name="very_light_pink">#ffede8</color>
+    <color name="color_617c7c7c">#617c7c7c</color>
+    <color name="color_7c7c7c">#7c7c7c</color>
+    <color name="white_3">#f9f9f9</color>
+
+    <color name="color_F1F1F1">#F1F1F1</color>
+    <color name="color_BDBDBD">#BDBDBD</color>
+    <color name="color_E0E0E0">#E0E0E0</color>
+    <color name="color_EEEEEE">#EEEEEE</color>
+    <color name="color_ededed">#ededed</color>
+    <color name="color_fc4158">#fc4158</color>
+    <color name="color_979797">#979797</color>
+    <color name="color_74dd00">#74dd00</color>
+    <color name="color_7ed321">#7ed321</color>
+    <color name="color_ffc200">#ffc200</color>
+    <color name="color_45c9a5">#45c9a5</color>
 </resources>
